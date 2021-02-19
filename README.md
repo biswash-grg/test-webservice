@@ -1,0 +1,19 @@
+# A GO web service
+
+This is a sample GO web service created using GIN framework. The app run on port :3000
+
+## Security
+
+Okta oatuh
+
+
+## Endpoints
+
+- **GET**: **"/"**
+  - unprotected
+- **GET**: **"/students"**
+  - protected
+
+## Note
+
+You will need to get an access token to call protected endpoint
