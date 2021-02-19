@@ -15,4 +15,4 @@ Implements Okta oauth security
 
 ## Note
 
-You will need to get an access token to call protected endpoint
+You will need to get an access token to call protected endpoint. Add Okta oauth configs in **"config/config.properties"**
