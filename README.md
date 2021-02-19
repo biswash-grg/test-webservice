@@ -4,8 +4,7 @@ This is a sample GO web service created using GIN framework. The app run on port
 
 ## Security
 
-Okta oatuh
-
+Implements Okta oauth security
 
 ## Endpoints
 
